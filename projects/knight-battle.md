@@ -12,6 +12,7 @@ labels:
 summary: A final project I made with my group member for ICS 111.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/knight.PNG">
 
 This was my ICS 111 final project that I worked on with one other group member. The project we did was a small scale rpg type of game. You controlled a character that can walk around the map and fight enemies in a turn based battle. We made it so that the enemies walked towards you when you got close and after defeating a few of them, you could face the final boss.
 
