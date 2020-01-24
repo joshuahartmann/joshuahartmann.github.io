@@ -12,7 +12,7 @@ labels:
 summary: A school planner web application for myself to use during the school semesters.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/fullscreenplanner.jpg">
+<img class="ui medium right floated rounded image" src="../images/fullscreenplanner.png">
 
 This is a project that I just started working on for me to be able to write down what I need to do in terms of my school work. I want to make something that will be simple for me to quickly check to see what I need to get done. Right now I'm planning on it to just be a todo list sort of planner that I can add, mark complete, or delete the tasks I put down. What I have so far is something I see that is useful for me to organize myself a little better but I still might add a few features if I find that they help.
 
