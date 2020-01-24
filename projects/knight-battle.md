@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/knightsquare.PNG
 title: Knight Battle
 permalink: projects/knightbattle
 # All dates must be YYYY-MM-DD format!
