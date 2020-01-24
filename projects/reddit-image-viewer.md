@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/reddit-viewer-square.png
+image: images/redditviewersquare.png
 title: Reddit Image Viewer
 permalink: projects/reddit-image-viewer
 # All dates must be YYYY-MM-DD format!
