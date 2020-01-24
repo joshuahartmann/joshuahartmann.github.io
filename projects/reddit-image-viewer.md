@@ -11,7 +11,7 @@ labels:
 summary: A reddit picture viewer app I am currently working on.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/redviewlist.png">
+<img class="ui medium right floated rounded image" src="../images/redviewlist.png">
 
 This is a project that I'm working on to learn react native with. The function of the app is pretty basic, it lets you search for subreddits that have pictures and it displays the pictures in an Instagram inspired layout. This only works for subreddits that have pictures which is the whole point of the app, to view pictures without all the text or hassle.
 
