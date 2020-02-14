@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: That Green Checkmark
+title: Better For Everyone
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
