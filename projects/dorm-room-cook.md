@@ -13,7 +13,7 @@ labels:
 summary: A recipe search web application catered towards dorm room able meals.
 ---
 
-<img class="ui medium image" src="../images/all-recipes.png">
+<img class="ui large image" src="../images/all-recipes.png">
 
 The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots. It should include a link to the Organization GitHub Page associated with the project for those who want to see the source code and learn more about it.
 
