@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type:
 title: What to do?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
