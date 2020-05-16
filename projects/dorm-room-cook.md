@@ -13,6 +13,6 @@ labels:
 summary: A recipe search web application catered towards dorm room able meals.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/all-recipes.png">
+<img class="ui medium rounded image" src="../images/all-recipes.png">
 
 hi
