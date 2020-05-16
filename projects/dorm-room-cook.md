@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/planner-square.jpg
+image: images/recipe-landing.png
 title: Dorm Room Cooks
 permalink: projects/dormroomcooks
 # All dates must be YYYY-MM-DD format!
@@ -13,5 +13,6 @@ labels:
 summary: A recipe search web application catered towards dorm room able meals.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/fullscreenplanner.png">
+<img class="ui medium right floated rounded image" src="../images/all-recipes.png">
 
+hi
