@@ -14,7 +14,7 @@ Coming into this class I thought we would just learn Javascript and the making o
 what they mean beyond web application development
 
 # Functional Programming
-
+Functional programming was a great thing to learn about during this semester. Coding with Javascript, you should learn about functional programming because of how great it is. Functional programming can be seen as being able to pass in functions as parameters of a function. This idea is seen in mathematics as well when you have multiple functions like f(x) and g(x) in the same formula. We also were introduced to a libray UnderscoreJS that heavily utilized this idea. This library provided functions that can manipulate data and can use a function that we pass in as the guide to what data is looked at. This is great because the code looks cleaner to look at, which can make it easier to understand. 
 
 
 # User Interface Frameworks
