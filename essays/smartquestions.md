@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type:
 published: true
 title: Ask Smart Questions
 date: 2020-01-30
