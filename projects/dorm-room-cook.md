@@ -19,4 +19,5 @@ The page should provide an overview of the project, what your contributions to t
 
 ## Dorm Room Cooks
 - [View Documentation](https://dorm-room-cook.github.io/)
+
 The goal of this project was to create a webpage for UH Manoa students to find and upload recipes that are easy to make and can be done in their dorm room.
