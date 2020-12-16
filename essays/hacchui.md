@@ -2,7 +2,7 @@
 layout: essay
 type:
 title: "HACC HUI"
-date: 2020-10-31
+date: 2020-12-15
 labels:
   - Software Engineering
   - Meteor
@@ -11,9 +11,8 @@ labels:
 ## HACC HUI
 To talk about HACC HUI you have to talk about what it is built for, which is the Hawaii Annual Code Challenge (HACC). This annual event is a hackathon focused on projects that could help the people and state of Hawaii. At the kickoff event for this hackathon, participants who are going into this solo could mingle with each other to find possible teammates or join an existing team. Most participants are students who could form teams with their friends or classmates and so with covid 19 quarantine restrictions, forming teams with people you see face to face became somethig that couldn't happen. As stated in the HACC HUI docs, "The initial goal of the HACC Hui system is to provide an easy-to-use system that simplifies and improves the team formation process for the Hawaii Annual Code Challenge.". HACC HUI is meant as a way for participants to find groupmates online since there's no way for people to meet others face to face. The documentation of the site can be found [here](https://hacc-hui.github.io/).
 
-A description of the functionality you added. Provide (annotated) screenshots and whatever else is necessary to help people understand what you accomplished. Of course, provide links to the GitHub page. This should be several paragraphs.
 ## Functionality
-
+The work on this project was done by several teams, each working on the same requirements but only some parts of the teams project being included in the actual system. During the beginning of this project I worked on several functionalities, working on the profile, team search, and direct invite. Unfortunately I believe none of the parts I worked on was included in the actual system. During the third milestone, we changed from each team working on the same project to no teams and anyone can choose what issue they want to work on. This made it so that some people would be working on a new addition and others working on bug fixes. I was late to choosing which issue I wanted to work on so I mostly did a few bug fixes and helped a few teammates with their code. 
 
 ## Team Process
 For this project we were split into teams that were predefined. My teammates were Issac, Joel, and Manalu. We were a mix of computer science and engineering students. The work for this system was split up into milestones where by each milestone we would finish implementing a few additions to the site. We utilized github project boards to keep track of our progress and the parts we needed to work on. The way we went about splitting up work was at the start of each new milestone we would all simply just pick with issue we wanted to work on and then start work on it. Being a four team group, this method of splitting up work was relatively simple because most milestones had four different issues and were each of similar difficulty to them. We had a group chat provided to us on Discord and so when anyone needed help we would post a message and help each other out.
