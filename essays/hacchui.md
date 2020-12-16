@@ -1,6 +1,6 @@
 ---
 layout: essay
-type:
+type: essay
 title: "HACC HUI"
 date: 2020-12-15
 labels:
